@@ -22,7 +22,7 @@ Projects I loved working on and am most proud of:
 What I've been building and studying recently:
 
 - 💘 **[OKCupid](https://docs.google.com/presentation/d/1oso5JR6zwf0B6rfaz08yRCeVdfITA5S9So0f8ULZKao/edit?usp=sharing)** — Recent Data Science project from my current studies at BeCode.
-- 📊 **[Belgium House Price Forecast](https://github.com/chainsoftruth/Belgium-House-Price-Forecast)** — Ready to use [API](https://belgium-house-price-forecast.onrender.com/).
+- 📊 **[Belgium House Price Forecast](https://github.com/chainsoftruth/Belgium-House-Price-Forecast)** — Ready to use [API](https://belgium-house-price-forecast.onrender.com/docs).
 
 ---
 
