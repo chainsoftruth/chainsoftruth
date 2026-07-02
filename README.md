@@ -4,7 +4,7 @@
 
 > Constantly exploring, learning, and sharing knowledge. Uncovering insights in data, inspired by nature. 🌿
 
-I am a data professional with a foundation in software engineering, passionate about building robust data pipelines, uncovering hidden insights, and continuously expanding my skill set. I love exploring new technologies, helping people solve complex problems, and combining my technical background with my creative side in design and photography.
+I am a data professional with a foundation in software engineering, passionate about building robust data pipelines, uncovering hidden insights, and continuously expanding my skill set. I love exploring new technologies, helping people solve complex problems, and combining my technical background with my creative side in design and photography. I also enjoy working with finances and building big projects.
 
 ---
 
@@ -12,8 +12,8 @@ I am a data professional with a foundation in software engineering, passionate a
 
 Projects I loved working on and am most proud of:
 
-- 🌱 **[Ephedra distachya](https://docs.google.com/presentation/d/17sjF0P8F4ICoqwrWUOeLmo6VS7x7z7ZRn5b8ylBKruM/edit?usp=sharing)** — Requested exploring for PHD in Biology.
-- 🤖 **[MusicBotUA](http://musicbotua.xyz/)** — Twitch bot for streamers' community.
+- 🌱 **[Ephedra: Exploring Origin](https://github.com/chainsoftruth/Ephedra-Exploring-Origin)** — Requested exploring for PHD in Biology. ([Presentation](https://docs.google.com/presentation/d/17sjF0P8F4ICoqwrWUOeLmo6VS7x7z7ZRn5b8ylBKruM/edit?usp=sharing))
+- 🤖 **[MusicBotUA](https://github.com/chainsoftruth/MusicBotUa)** — Twitch bot for streamers' community.
 
 ---
 
@@ -21,8 +21,8 @@ Projects I loved working on and am most proud of:
 
 What I've been building and studying recently:
 
-- 💘 **[OKCupid](https://docs.google.com/presentation/d/1oso5JR6zwf0B6rfaz08yRCeVdfITA5S9So0f8ULZKao/edit?usp=sharing)** — Recent Data Science project from my current studies at BeCode.
-- 📊 **[Belgium House Price Forecast](https://github.com/chainsoftruth/Belgium-House-Price-Forecast)** — Ready to use [API](https://belgium-house-price-forecast.onrender.com/docs).
+- 🦺 **[PPE Detection CV](https://github.com/aiabeer/PPE-detection-CV)** — Computer vision project for detecting safety compliance in industrial settings.
+- ⚽ **[World Cup Prediction](https://github.com/KlitiHamataj/world_cup_prediction)** — Predictive model for World Cup outcomes.
 
 ---
 
@@ -56,6 +56,7 @@ What I've been building and studying recently:
 ## 🌱 What I'm Doing
 
 - **Studying** — Advancing my skills in AI & Data Science at BeCode (Belgium).
+- **Currently Learning** — Deep Learning, LLMs, GCP, and GA4.
 - **Exploring** — Working with data specifically related to Nature and environmental topics.
 - **Creating** — Designing presentations, speaking at events, and practicing photography.
 - **Helping** — Always eager to mentor, assist, and share knowledge with others.
