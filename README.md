@@ -56,7 +56,7 @@ What I've been building and studying recently:
 ## 🌱 What I'm Doing
 
 - **Studying** — Advancing my skills in AI & Data Science at BeCode (Belgium).
-- **Currently Learning** — Deep Learning, LLMs, GCP, and GA4.
+- **Currently Learning** — TyTorch (Deep Learning, LLMs, NLP, GenAI), GCP, and GA4.
 - **Exploring** — Working with data specifically related to Nature and environmental topics.
 - **Creating** — Designing presentations, speaking at events, and practicing photography.
 - **Helping** — Always eager to mentor, assist, and share knowledge with others.
